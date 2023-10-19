@@ -1,4 +1,4 @@
-# Move Mirror Cover with out checks
+# Move Mirror Cover without checks
 
 This file contains the explanations for moving the mirror cover without checking the elevation position or checking the
 collision possibilities between them.
