@@ -24,7 +24,7 @@ executed.
     for each of the instances, remember the mirror cover has 4 instances, this can be changed in the EUI using the top right
     control that says *instance*.
 
-  ![Settings window of the mirror cover with the values changed, showing instance 4](media/ChangedSettingsForTheMirrorCover.png){width=70%}
+  ![Settings window of the mirror cover with the values changed, showing instance 4](media/ChangedSettingsForTheMirrorCover.png)
 
 - Go back to the Mirror Cover window
 - Power on the selected mirror cover
