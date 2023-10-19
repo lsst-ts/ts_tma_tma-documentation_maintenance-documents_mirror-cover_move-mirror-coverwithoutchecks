@@ -27,10 +27,14 @@ executed.
   ![Settings window of the mirror cover with the values changed, showing instance 4](media/ChangedSettingsForTheMirrorCover.png){width=70%}
 
 - Go back to the Mirror Cover window
-- Power on the selected mirror cover and move it at a speed of maximum 0.5 deg/s
+- Power on the selected mirror cover
+- Move each of the mirror covers individually at the defined sequence order below, at a maximum speed of 0.5 deg/s
 - There is an order that must be followed if we want to retract the mirror cover
 
 Retract order for the mirror cover, manually at horizon:
+
+> For retracting and clearing the deployable platforms it was checked that a position of ~40deg for each of the covers
+>  was enough, there is no need to fully retract them
 
 1. Mirror cover X-
 2. Mirror cover Y+
